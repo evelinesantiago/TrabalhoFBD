@@ -15,7 +15,7 @@ diagnósticos e prescrições médicas sem a necessidade de sair de casa.
 # Como executar
 Para executar o projeto, é necessário ter o Python instalado na máquina. Para instalar as dependências, execute o comando:
 ```bash
-pip install nome_dependencias
+pip install nome_dependencia
 ```
 
 # Ambiente Virtual
